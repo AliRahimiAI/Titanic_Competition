@@ -56,6 +56,7 @@ Download the datasets from the [Kaggle Titanic competition page](https://www.kag
 ## 📈 Results
 
 The model with the best performance in this notebook was the Gradient Boosting Classifier, achieving a strong cross-validation score.
+The best Submission public score was 0.78
 
 ## 📬 Submission
 
